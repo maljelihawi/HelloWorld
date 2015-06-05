@@ -1,2 +1,2 @@
 # HelloWorld
-Playing with java poj
+Playing with java
